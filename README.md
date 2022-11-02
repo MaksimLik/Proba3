@@ -1,5 +1,5 @@
 # System aukcyjny
-
+ofdkgpodgdsfg
 ## Wprowadzenie
 
 Specyfikacja wymagań funkcjonalnych w ramach informatyzacji procesu sprzedaży produktów w oparciu o mechanizm aukcyjny. 
