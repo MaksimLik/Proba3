@@ -1,5 +1,7 @@
 # System aukcyjny
 ofdkgpodgdsfg
+
+1234567890
 ## Wprowadzenie
 
 Specyfikacja wymagań funkcjonalnych w ramach informatyzacji procesu sprzedaży produktów w oparciu o mechanizm aukcyjny. 
